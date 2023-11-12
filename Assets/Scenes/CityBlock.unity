@@ -444,7 +444,7 @@ GameObject:
   - component: {fileID: 52872892}
   - component: {fileID: 52872893}
   m_Layer: 0
-  m_Name: Point Light (2)
+  m_Name: PizzaCar_BacklightRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -823,7 +823,7 @@ GameObject:
   - component: {fileID: 298885064}
   - component: {fileID: 298885065}
   m_Layer: 0
-  m_Name: Spot Light
+  m_Name: Hotdog_HeadlightLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -917,7 +917,7 @@ GameObject:
   - component: {fileID: 309704810}
   - component: {fileID: 309704811}
   m_Layer: 0
-  m_Name: Point Light (5)
+  m_Name: Hotdog_FrontlightLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1863,7 +1863,7 @@ GameObject:
   - component: {fileID: 679524959}
   - component: {fileID: 679524960}
   m_Layer: 0
-  m_Name: Point Light (4)
+  m_Name: Hotdog_FrontlightRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2007,7 +2007,7 @@ GameObject:
   - component: {fileID: 777640805}
   - component: {fileID: 777640806}
   m_Layer: 0
-  m_Name: Point Light (3)
+  m_Name: Pizzacar_BacklightLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2387,7 +2387,7 @@ GameObject:
   - component: {fileID: 1093687135}
   - component: {fileID: 1093687136}
   m_Layer: 0
-  m_Name: Point Light (3)
+  m_Name: Hotdog_BacklightLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3050,7 +3050,7 @@ GameObject:
   - component: {fileID: 1350913240}
   - component: {fileID: 1350913241}
   m_Layer: 0
-  m_Name: Point Light (4)
+  m_Name: Hotdog_BacklightRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3162,7 +3162,7 @@ GameObject:
   - component: {fileID: 1385801838}
   - component: {fileID: 1385801839}
   m_Layer: 0
-  m_Name: Spot Light (1)
+  m_Name: Hotdog_HeadlightRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
